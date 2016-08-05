@@ -1,0 +1,33 @@
+_repo: Familiar-Spanish-Travels_7430
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+tableOfContents: Autobiographical approaches -- San Sebastian and beautiful Biscay
+  -- Burgos and the bitter cold of Burgos -- The variety of Valladolid -- Phases of
+  Madrid -- A night and day in Toledo -- The great bridiron of St. Lawrence -- Cordova
+  and the way there -- First days in Seville -- Sevillian aspects and incidents --
+  To and in Granada -- The surprises of Ronda -- Algeciras and Tarifa.
+title: Familiar Spanish Travels
+url: http://www.gutenberg.org/ebooks/7430
